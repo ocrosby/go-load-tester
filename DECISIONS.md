@@ -26,7 +26,7 @@ decisions/
 
 Each ADR follows a consistent format.
 
-ADR Format
+## ADR Format
 
 ```markdown
 # ADR-XXXX: Title of the Decision
