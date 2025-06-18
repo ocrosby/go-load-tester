@@ -1,8 +1,8 @@
-Architectural Decision Records (ADR)
+# Architectural Decision Records (ADR)
 
 This project uses the Architectural Decision Record (ADR) process to document important architectural and technical decisions over time. Each ADR captures the context, alternatives, decision, and consequences for a specific design choice. This provides a transparent, traceable log of the evolution of the system.
 
-What is an ADR?
+## What is an ADR?
 
 An ADR (Architectural Decision Record) is a short document that explains:
 	•	What decision was made
@@ -13,7 +13,7 @@ An ADR (Architectural Decision Record) is a short document that explains:
 
 This makes the decision-making process more transparent and easier to revisit later.
 
-Where are ADRs stored?
+## Where are ADRs stored?
 
 
 Example:
@@ -28,6 +28,7 @@ Each ADR follows a consistent format.
 
 ADR Format
 
+```markdown
 # ADR-XXXX: Title of the Decision
 
 ## Status
@@ -38,3 +39,6 @@ Why is this decision necessary? What is the background?
 
 ## Decision
 What decision has been made?
+```
+
+
